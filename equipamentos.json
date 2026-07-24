@@ -1136,12 +1136,1792 @@
   ],
   "Manutencoes": [
     {
-      "CodigoEquipamento": "485 A1-MAQIND | Máquina de fusão 12 | Máquinas industriais",
-      "Data": "0202-12-29",
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2026-07-03",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2026-06-12",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2026-05-22",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2026-04-14",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2026-03-20",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2026-02-09",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2026-01-06",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2025-12-10",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "757-MAQIND | Impressora 3D 18 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "757-MAQIND | Impressora 3D 18 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "756-MAQIND | Impressora 3D 17 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "756-MAQIND | Impressora 3D 17 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "755-MAQIND | Impressora 3D 16 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "755-MAQIND | Impressora 3D 16 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "752-MAQIND | Impressora 3D 15 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "752-MAQIND | Impressora 3D 15 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "751-MAQIND | Impressora 3D 14 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "751-MAQIND | Impressora 3D 14 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "750-MAQIND | Impressora 3D 13 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "750-MAQIND | Impressora 3D 13 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "670-MAQIND | Impressora 3D 12 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "670-MAQIND | Impressora 3D 12 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "653-MAQIND | Impressora 3D 11 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "653-MAQIND | Impressora 3D 11 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "652-MAQIND | Impressora 3D 10 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "652-MAQIND | Impressora 3D 10 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "642-MAQIND | Impressora 3D 9 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "642-MAQIND | Impressora 3D 9 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "641-MAQIND | Impressora 3D 8 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "641-MAQIND | Impressora 3D 8 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "577-MAQIND | Impressora 3D 6 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "577-MAQIND | Impressora 3D 6 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "576-MAQIND | Impressora 3D 5 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "576-MAQIND | Impressora 3D 5 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "512-MAQIND | Impressora 3D 4 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "512-MAQIND | Impressora 3D 4 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "473-MAQIND | Impressora 3D 3 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "473-MAQIND | Impressora 3D 3 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "472-MAQIND | Impressora 3D 2 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "472-MAQIND | Impressora 3D 2 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "471-MAQIND | Impressora 3D 1 | Máquinas industriais",
+      "Data": "2026-06-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "471-MAQIND | Impressora 3D 1 | Máquinas industriais",
+      "Data": "2025-12-19",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "778-EQUIP | Forno 23 | Equipamentos",
+      "Data": "2026-07-01",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "777-EQUIP | Forno 22 | Equipamentos",
+      "Data": "2026-07-01",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "778-EQUIP | Forno 23 | Equipamentos",
+      "Data": "2026-01-06",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "777-EQUIP | Forno 22 | Equipamentos",
+      "Data": "2026-01-06",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "706-EQUIP | Forno 21 | Equipamentos",
+      "Data": "2026-04-16",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "695-EQUIP | Forno 20 | Equipamentos",
+      "Data": "2026-04-23",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "694-EQUIP | Forno 19 | Equipamentos",
+      "Data": "2026-04-23",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "687-EQUIP | Forno 18 | Equipamentos",
+      "Data": "2026-04-03",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "686-EQUIP | Forno 17 | Equipamentos",
+      "Data": "2026-04-03",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "678-EQUIP | Forno 16 | Equipamentos",
+      "Data": "2026-05-12",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "677-EQUIP | Forno 15 | Equipamentos",
+      "Data": "2026-05-12",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "676-EQUIP | Forno 14 | Equipamentos",
+      "Data": "2026-05-08",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "308-EQUIP | Forno 10 | Equipamentos",
+      "Data": "2026-04-29",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "308-EQUIP | Forno 10 | Equipamentos",
+      "Data": "2025-11-05",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "303 A-LABOR | MAP - 4 - MAP-200 | Laboratório - RMM",
+      "Data": "2026-04-01",
+      "Tipo": "Planeada",
+      "Descricao": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "302 A-LABOR | MAP - 3 - MAP-200 | Laboratório - RMM",
+      "Data": "2026-04-01",
+      "Tipo": "Planeada",
+      "Descricao": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "282 A-MAQIND | Máquina Laser p/ corte fibra | Máquinas industriais",
+      "Data": "2026-05-11",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpeza das fibras depositadas no interior do equipamento;\nII- Limpeza das lentes e dos espelhos no interior do equipamento;\nIII- Verificar filtro de carbono do sistema de vácuo e substituir\ncaso esteja a bloquear a passagem de ar;\nIV- Registar o contador Total job cleave;",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpeza das fibras depositadas no interior do equipamento;\nII- Limpeza das lentes e dos espelhos no interior do equipamento;\nIII- Verificar filtro de carbono do sistema de vácuo e substituir\ncaso esteja a bloquear a passagem de ar;\nIV- Registar o contador Total job cleave;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "282 A-MAQIND | Máquina Laser p/ corte fibra | Máquinas industriais",
+      "Data": "2026-03-12",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpeza das fibras depositadas no interior do equipamento;\nII- Limpeza das lentes e dos espelhos no interior do equipamento;\nIII- Verificar filtro de carbono do sistema de vácuo e substituir\ncaso esteja a bloquear a passagem de ar;\nIV- Registar o contador Total job cleave;",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpeza das fibras depositadas no interior do equipamento;\nII- Limpeza das lentes e dos espelhos no interior do equipamento;\nIII- Verificar filtro de carbono do sistema de vácuo e substituir\ncaso esteja a bloquear a passagem de ar;\nIV- Registar o contador Total job cleave;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "282 A-MAQIND | Máquina Laser p/ corte fibra | Máquinas industriais",
+      "Data": "2026-01-12",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpeza das fibras depositadas no interior do equipamento;\nII- Limpeza das lentes e dos espelhos no interior do equipamento;\nIII- Verificar filtro de carbono do sistema de vácuo e substituir\ncaso esteja a bloquear a passagem de ar;\nIV- Registar o contador Total job cleave;",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpeza das fibras depositadas no interior do equipamento;\nII- Limpeza das lentes e dos espelhos no interior do equipamento;\nIII- Verificar filtro de carbono do sistema de vácuo e substituir\ncaso esteja a bloquear a passagem de ar;\nIV- Registar o contador Total job cleave;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "275 A-LABOR | MAP - 2 - MAP-200 | Laboratório - RMM",
+      "Data": "2026-04-01",
+      "Tipo": "Planeada",
+      "Descricao": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "125-MAQIND | Máquina Polir C | Máquinas industriais",
+      "Data": "2026-04-02",
+      "Tipo": "Planeada",
+      "Descricao": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "125-MAQIND | Máquina Polir C | Máquinas industriais",
+      "Data": "2026-04-02",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "125-MAQIND | Máquina Polir C | Máquinas industriais",
+      "Data": "2026-06-15",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "125-MAQIND | Máquina Polir C | Máquinas industriais",
+      "Data": "2026-04-17",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "125-MAQIND | Máquina Polir C | Máquinas industriais",
+      "Data": "2026-02-13",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "33-MAQIND | Máquina Polir B | Máquinas industriais",
+      "Data": "2026-04-02",
+      "Tipo": "Planeada",
+      "Descricao": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "33-MAQIND | Máquina Polir B | Máquinas industriais",
+      "Data": "2026-04-02",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "33-MAQIND | Máquina Polir B | Máquinas industriais",
+      "Data": "2026-06-15",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "33-MAQIND | Máquina Polir B | Máquinas industriais",
+      "Data": "2026-04-17",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "33-MAQIND | Máquina Polir B | Máquinas industriais",
+      "Data": "2026-02-13",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "32-MAQIND | Máquina Polir A | Máquinas industriais",
+      "Data": "2026-04-02",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "32-MAQIND | Máquina Polir A | Máquinas industriais",
+      "Data": "2026-06-15",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "32-MAQIND | Máquina Polir A | Máquinas industriais",
+      "Data": "2026-04-17",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "32-MAQIND | Máquina Polir A | Máquinas industriais",
+      "Data": "2026-02-13",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "31 A-LABOR | MAP - 1 - Plataforma teste JDSU | Laboratório - RMM",
+      "Data": "2026-04-01",
+      "Tipo": "Planeada",
+      "Descricao": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "679 A-MAQIND | Máquina de limpeza superficies planas | Máquinas industriais",
+      "Data": "2026-07-23",
       "Tipo": "Planeada",
       "Descricao": "",
       "Periodicidade": "Anual",
       "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "525A-MAQIND | Máquina Quinadora  | Máquinas industriais",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "525A-MAQIND | Máquina Quinadora  | Máquinas industriais",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "498 A-MAQIND | Máquina de Soldar  MIG MAG | Máquinas industriais",
+      "Data": "2024-12-05",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "443 A-EQUIP | Compressor | Equipamentos",
+      "Data": "2024-12-05",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "442-MAQIND | Máquina Soldar Pernos | Máquinas industriais",
+      "Data": "2025-07-21",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "441 A-MAQIND | Máquina Soldar por Pontos  | Máquinas industriais",
+      "Data": "2025-07-21",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "440 A-MAQIND | Máquina Soldar TIG | Máquinas industriais",
+      "Data": "2025-09-08",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "405-MAQIND | Máquina Inserção Hidraulica | Máquinas industriais",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "405-MAQIND | Máquina Inserção Hidraulica | Máquinas industriais",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "409-MAQIND | Máquina Quinadora Electríca | Máquinas industriais",
+      "Data": "2025-09-08",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "409-MAQIND | Máquina Quinadora Electríca | Máquinas industriais",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "409-MAQIND | Máquina Quinadora Electríca | Máquinas industriais",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "707-FERRAM | Cleaver 1 | Ferramentas",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "708-FERRAM | Cleaver 2 | Ferramentas",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "709-FERRAM | Cleaver 3 | Ferramentas",
+      "Data": "2025-07-01",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "439 A-MAQIND | Máquina de Laser  | Máquinas industriais",
+      "Data": "2026-07-01",
+      "Tipo": "Planeada",
+      "Descricao": "I - Verificar nivel oleo hidraulico;                                                                                                                                                        II - Verificar a existencia de peças desgastas;                                                                                                                                  III - Lubrificação de corretes;                                                                                                                                                 IV - Limpeza de filtro;                                                                                                                                                                        V -  Reposição nivel de agua destilada;                                                                                                                                                         VI - Substituir bico de corte;                                                                                                                                                            VII - Substituir lente de proteção;                                                                                                                                                 VIII - Reposição de nivel de oleo do sistema de lubrificação automatica;                                                                                            IX - Lubrificação de engrenagem das portas;                                                                                                                                                             X - Limpeza de Filtro de AR;                                                                                                                                                           XI - Limpeza do filtro dos ventiladores",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I - Verificar nivel oleo hidraulico;                                                                                                                                                        II - Verificar a existencia de peças desgastas;                                                                                                                                  III - Lubrificação de corretes;                                                                                                                                                 IV - Limpeza de filtro;                                                                                                                                                                        V -  Reposição nivel de agua destilada;                                                                                                                                                         VI - Substituir bico de corte;                                                                                                                                                            VII - Substituir lente de proteção;                                                                                                                                                 VIII - Reposição de nivel de oleo do sistema de lubrificação automatica;                                                                                            IX - Lubrificação de engrenagem das portas;                                                                                                                                                             X - Limpeza de Filtro de AR;                                                                                                                                                           XI - Limpeza do filtro dos ventiladores",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "439 A-MAQIND | Máquina de Laser  | Máquinas industriais",
+      "Data": "2026-01-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Reposição nivel oleo hidraulico;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                II - Limpar guias de movimentação das mesas;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        III - Substituir Agua destilada;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     IV - Verificar estado das tubagem e uniões;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 V - Limpar Filtro e depósito da Aspiração;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               VI - Verificar estado da tubagem no interior;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                VII - Verificar estado das tubagens e uniões;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       VIII - Substituir cerâmica;                                                                                                                                                                                                                                                                                                                                                                                      IX - Eliminar existência de fuga de gás, ar e agua;                                                                            X - Verificar Nivel de Oleo e correta;                                                                                         XI - Verifcar estado dos motores e fusos lubrificação automática;                                                  XII - Substituir Oleo de lubrificação automatica;                                                                            XIII - Verificar estado da proteção dos eixos da cabeça do Laser;                                                 XIV - Verifcar estado dos motores e fusos;                                                                             XV - Verificar estado das barreiras;                                                                                                  XVI - Limpar sensor da porta; Verificar existencia de alarmes",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Reposição nivel oleo hidraulico;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                II - Limpar guias de movimentação das mesas;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        III - Substituir Agua destilada;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     IV - Verificar estado das tubagem e uniões;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 V - Limpar Filtro e depósito da Aspiração;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               VI - Verificar estado da tubagem no interior;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                VII - Verificar estado das tubagens e uniões;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       VIII - Substituir cerâmica;                                                                                                                                                                                                                                                                                                                                                                                      IX - Eliminar existência de fuga de gás, ar e agua;                                                                            X - Verificar Nivel de Oleo e correta;                                                                                         XI - Verifcar estado dos motores e fusos lubrificação automática;                                                  XII - Substituir Oleo de lubrificação automatica;                                                                            XIII - Verificar estado da proteção dos eixos da cabeça do Laser;                                                 XIV - Verifcar estado dos motores e fusos;                                                                             XV - Verificar estado das barreiras;                                                                                                  XVI - Limpar sensor da porta; Verificar existencia de alarmes",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "439 A-MAQIND | Máquina de Laser  | Máquinas industriais",
+      "Data": "2026-01-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Substituir Óleo Hidráulico;\n\tII - Substituição de filtro Óleo;\n\tIII - Verificar estado dos sensores, rolamentos e correntes\n\tIV - Substituir água destilada\t\nV - Substituir filtros;\n\tVI - Substituir filtro da aspiração;\n\tVII - Substituir filtro do circuito de aspiração;\t\nIX - Verificar estado das tubagens e uniões;\nXI - \tReapertar parafusos da cabeça do laser\t\nXII - verificar movimentos da cabeça do laser\t\nXIII - Substituir óleo de lubrificação automática\t\nXIV - Verificar estado dos rolamentos\t\nXV - Reapertar motores e acopladores\nXVI - Verificar estado das barreiras e alinhamento\t\nXVII - Limpar sensor de todas as portas\t\nXVIII - Verificar estado dos sensores e testar funcionamento",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I - Substituir Óleo Hidráulico;\n\tII - Substituição de filtro Óleo;\n\tIII - Verificar estado dos sensores, rolamentos e correntes\n\tIV - Substituir água destilada\t\nV - Substituir filtros;\n\tVI - Substituir filtro da aspiração;\n\tVII - Substituir filtro do circuito de aspiração;\t\nIX - Verificar estado das tubagens e uniões;\nXI - \tReapertar parafusos da cabeça do laser\t\nXII - verificar movimentos da cabeça do laser\t\nXIII - Substituir óleo de lubrificação automática\t\nXIV - Verificar estado dos rolamentos\t\nXV - Reapertar motores e acopladores\nXVI - Verificar estado das barreiras e alinhamento\t\nXVII - Limpar sensor de todas as portas\t\nXVIII - Verificar estado dos sensores e testar funcionamento",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "65 B-LABOR | OTDR 1 Acessório | Laboratório - RMM",
+      "Data": "2025-11-14",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "115 A-MAQIND | Máquina de fusão 4 | Máquinas industriais",
+      "Data": "2025-11-14",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "729 B-LABOR | OTDR SM/MM 1A | Laboratório - RMM",
+      "Data": "2025-09-08",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "116 A-LABOR | OTDR 4 | Laboratório - RMM",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "316-EQUIP | Plataforma Modular 1 | Equipamentos",
+      "Data": "2025-09-08",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "321-EQUIP | Plataforma Modular 2 | Equipamentos",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "322-LABOR | Modulo p/ OTDR MM | Laboratório - RMM",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "81-LABOR | PON Power Meter 3 | Laboratório - RMM",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "90-LABOR | PON Power Meter 4 | Laboratório - RMM",
+      "Data": "2025-06-12",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "89 A-LABOR | OTDR 3 | Laboratório - RMM",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "103-LABOR | PON Power Meter 5 | Laboratório - RMM",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "123 A-MAQIND | Máquina de fusão 5 | Máquinas industriais",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "126 A-MAQIND | Máquina de fusão 6 | Máquinas industriais",
+      "Data": "2025-10-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "71 A-LABOR | OTDR 2 | Laboratório - RMM",
+      "Data": "2025-12-26",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "728 A-LABOR | Módulo OLTS MM/SM 1 | Laboratório - RMM",
+      "Data": "2025-08-25",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "728 B-LABOR | Módulo OLTS  MM/SM 2 | Laboratório - RMM",
+      "Data": "2025-11-14",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "778-EQUIP | Forno 23 | Equipamentos",
+      "Data": "2025-07-10",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "777-EQUIP | Forno 22 | Equipamentos",
+      "Data": "2025-07-10",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "757-MAQIND | Impressora 3D 18 | Máquinas industriais",
+      "Data": "2025-11-12",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "756-MAQIND | Impressora 3D 17 | Máquinas industriais",
+      "Data": "2025-11-12",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "755-MAQIND | Impressora 3D 16 | Máquinas industriais",
+      "Data": "2025-11-12",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "752-MAQIND | Impressora 3D 15 | Máquinas industriais",
+      "Data": "2025-07-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "751-MAQIND | Impressora 3D 14 | Máquinas industriais",
+      "Data": "2025-07-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "750-MAQIND | Impressora 3D 13 | Máquinas industriais",
+      "Data": "2025-07-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "731-FERRAM | Cleaver 4 | Ferramentas",
+      "Data": "2025-01-30",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "706-EQUIP | Forno 21 | Equipamentos",
+      "Data": "2025-11-10",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "695-EQUIP | Forno 20 | Equipamentos",
+      "Data": "2025-10-08",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "694-EQUIP | Forno 19 | Equipamentos",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "687-EQUIP | Forno 18 | Equipamentos",
+      "Data": "2025-10-10",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "686-EQUIP | Forno 17 | Equipamentos",
+      "Data": "2025-10-13",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "678-EQUIP | Forno 16 | Equipamentos",
+      "Data": "2025-11-19",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "677-EQUIP | Forno 15 | Equipamentos",
+      "Data": "2025-11-19",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "676-EQUIP | Forno 14 | Equipamentos",
+      "Data": "2025-11-18",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "670-MAQIND | Impressora 3D 12 | Máquinas industriais",
+      "Data": "2025-07-05",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "653-MAQIND | Impressora 3D 11 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "652-MAQIND | Impressora 3D 10 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "642-MAQIND | Impressora 3D 9 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "641-MAQIND | Impressora 3D 8 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
+      "Data": "2025-11-14",
+      "Tipo": "Planeada",
+      "Descricao": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "I- Fazer limpeza diária\nII- Maintenance – Station\n-\tDisway Wash\n•\tColocar líquido de limpeza nos sítios onde os cartuchos repousam, líquido de limpeza nº15;\n-\tNozzle Wash\n•\tColocar no cartucho do Primário (PR-200) o líquido de limpeza específico (PR-200), líquido de limpeza nº13.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "592 B-LABOR | PON Power Meter 8 | Laboratório - RMM",
+      "Data": "2023-01-25",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "592 A-LABOR | PON Power Meter 7 | Laboratório - RMM",
+      "Data": "2023-01-25",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "587 B-LABOR | Fontes Opticas de Laser SM/MM - Meter | Laboratório - RMM",
+      "Data": "2025-10-06",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "587 A-LABOR | Fontes Opticas de Laser SM/MM | Laboratório - RMM",
+      "Data": "2025-10-06",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "577-MAQIND | Impressora 3D 6 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "576-MAQIND | Impressora 3D 5 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "518-MAQIND | Máquina polir E | Máquinas industriais",
+      "Data": "2025-02-15",
+      "Tipo": "Planeada",
+      "Descricao": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "518-MAQIND | Máquina polir E | Máquinas industriais",
+      "Data": "2025-09-13",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "518-MAQIND | Máquina polir E | Máquinas industriais",
+      "Data": "2025-10-24",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "512-MAQIND | Impressora 3D 4 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "473-MAQIND | Impressora 3D 3 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "472-MAQIND | Impressora 3D 2 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "471-MAQIND | Impressora 3D 1 | Máquinas industriais",
+      "Data": "2025-06-18",
+      "Tipo": "Planeada",
+      "Descricao": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I - Limpeza do pó em toda a máquina.\nII - Lubrificação das hastes/veios (X, Y e Z), fazer atenção para não adicionar muito, espalhar devidamente. \nIII - Limpeza das ventoinhas usar pinças com cuidado ou ar comprimido;\nIV - Verificação da tensão da correia dentada.\nV - Verificação das temperaturas e se necessário calibrar a base.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "436 A-EQUIP | Compressor parafuso de ar comprimido | Equipamentos",
+      "Data": "2024-01-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Trianual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Marisa Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "436 A-EQUIP | Compressor parafuso de ar comprimido | Equipamentos",
+      "Data": "2025-01-28",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Marisa Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "436 A-EQUIP | Compressor parafuso de ar comprimido | Equipamentos",
+      "Data": "2025-11-14",
+      "Tipo": "Planeada",
+      "Descricao": "I- Verificar nível do óleo;\nII- Verificar nível de água reservatório;\nIII- Testar sistema purga tanque;\nIV- Testar sistema purga filtros de linha;\nV- Testar sistema purga secador;\nVI- Limpeza do filtro do secador;\nVII- Verificar tempo enchimento (6,40min) e\nreposição (1,15min). O tempo total poderá\nser inferior, no entanto não pode exceder\n1min para além dos tempos de referência;\nVIII- Verificar pressão mínima (7,50 bar) e\nmáxima (9 bar) para ligar ou desligar\ncompressor. Variação poderá ser superior, no\nentanto não pode ser inferior a 0,50 bar;\nIX- Registar o número de horas do compressor;",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Verificar nível do óleo;\nII- Verificar nível de água reservatório;\nIII- Testar sistema purga tanque;\nIV- Testar sistema purga filtros de linha;\nV- Testar sistema purga secador;\nVI- Limpeza do filtro do secador;\nVII- Verificar tempo enchimento (6,40min) e\nreposição (1,15min). O tempo total poderá\nser inferior, no entanto não pode exceder\n1min para além dos tempos de referência;\nVIII- Verificar pressão mínima (7,50 bar) e\nmáxima (9 bar) para ligar ou desligar\ncompressor. Variação poderá ser superior, no\nentanto não pode ser inferior a 0,50 bar;\nIX- Registar o número de horas do compressor;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "408-MAQIND | Máquina Polir D | Máquinas industriais",
+      "Data": "2025-02-15",
+      "Tipo": "Planeada",
+      "Descricao": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "408-MAQIND | Máquina Polir D | Máquinas industriais",
+      "Data": "2025-09-13",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "408-MAQIND | Máquina Polir D | Máquinas industriais",
+      "Data": "2025-10-24",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "406-EQUIP | Secador ar comprimido | Equipamentos",
+      "Data": "2025-11-14",
+      "Tipo": "Planeada",
+      "Descricao": "I- Verificar nível do óleo;\nII- Verificar nível de água reservatório;\nIII- Testar sistema purga tanque;\nIV- Testar sistema purga filtros de linha;\nV- Testar sistema purga secador;\nVI- Limpeza do filtro do secador;\nVII- Verificar tempo enchimento (6,40min) e\nreposição (1,15min). O tempo total poderá\nser inferior, no entanto não pode exceder\n1min para além dos tempos de referência;\nVIII- Verificar pressão mínima (7,50 bar) e\nmáxima (9 bar) para ligar ou desligar\ncompressor. Variação poderá ser superior, no\nentanto não pode ser inferior a 0,50 bar;\nIX- Registar o número de horas do compressor;",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Verificar nível do óleo;\nII- Verificar nível de água reservatório;\nIII- Testar sistema purga tanque;\nIV- Testar sistema purga filtros de linha;\nV- Testar sistema purga secador;\nVI- Limpeza do filtro do secador;\nVII- Verificar tempo enchimento (6,40min) e\nreposição (1,15min). O tempo total poderá\nser inferior, no entanto não pode exceder\n1min para além dos tempos de referência;\nVIII- Verificar pressão mínima (7,50 bar) e\nmáxima (9 bar) para ligar ou desligar\ncompressor. Variação poderá ser superior, no\nentanto não pode ser inferior a 0,50 bar;\nIX- Registar o número de horas do compressor;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "385-MAQIND | Desenrolador bobines Telenco | Máquinas industriais",
+      "Data": "2021-11-06",
+      "Tipo": "Planeada",
+      "Descricao": "I- Lubrificação do veio do pneumático e zona de movimento do mesmo;\nII- Lubrificação das rodas plásticas;\nIII- Limpeza geral;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Lubrificação do veio do pneumático e zona de movimento do mesmo;\nII- Lubrificação das rodas plásticas;\nIII- Limpeza geral;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "384-MAQIND | Máquina de Medição e corte EC3300 2 | Máquinas industriais",
+      "Data": "2021-11-06",
+      "Tipo": "Planeada",
+      "Descricao": "I -Verificação do aperto dos parafusos: pneumático da faca,\nafinação da faca e outros parafusos;\nII - Limpeza do rolo de tração. Lubrificação dos veios do\nsistema de corte. Limpeza geral da máquina;\nIII - Verificação da mediação\nEquipamento nº12 – Efetuar medições de despistagem a\n1000mm, 3000mm e 5000mm. Comparar medição da\nmáquina com valor real. Margem de erro não superior a\n200mm em relação à medida original.\nEquipamento nº268 e 384 – é ajustado o fator de\ncorreção em função da medida a cortar.",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I -Verificação do aperto dos parafusos: pneumático da faca,\nafinação da faca e outros parafusos;\nII - Limpeza do rolo de tração. Lubrificação dos veios do\nsistema de corte. Limpeza geral da máquina;\nIII - Verificação da mediação\nEquipamento nº12 – Efetuar medições de despistagem a\n1000mm, 3000mm e 5000mm. Comparar medição da\nmáquina com valor real. Margem de erro não superior a\n200mm em relação à medida original.\nEquipamento nº268 e 384 – é ajustado o fator de\ncorreção em função da medida a cortar.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "357-TI | Servidor (6x discos 300GB) | Informática / TI",
+      "Data": "2025-11-14",
+      "Tipo": "Planeada",
+      "Descricao": "I -Cópias de segurança efectuadas com sucesso.",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I -Cópias de segurança efectuadas com sucesso.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "356-ELET | UPS - Uninterruptible power supply | Elétrico / eletrónico",
+      "Data": "2025-06-16",
+      "Tipo": "Planeada",
+      "Descricao": "I- Descarregamento Completo.",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Descarregamento Completo.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "315 A-LABOR | Termómetro c/ registo p/ HACCP | Laboratório - RMM",
+      "Data": "2025-07-05",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpeza geral da sonda;\nII- Verificar o estado da sonda (rachaduras, corrossão, ligação eléctrica e precisão das leituras);",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpeza geral da sonda;\nII- Verificar o estado da sonda (rachaduras, corrossão, ligação eléctrica e precisão das leituras);",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "308-EQUIP | Forno 10 | Equipamentos",
+      "Data": "2025-05-19",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar base de dissipação do forno;\nII- Colocar a sonda no buraco existente no forno (sem a \nbase dos conetores colocada), no caso do forno \"MTP\" colocar a sonda encostada à placa de dissipação e ao centro (a tampa tem de estar fechada na medição);\nIII- Selecionar, na sonda, a temperatura desejada\nIV- Procedimento medição: pré-aquecimento de 30 minutos. Registar temperatura da sonda aos 30/35/40/45/50min.\nV-Ajustar o set point no forno, se necessário, de forma que \na medição cumpra os critérios a seguir descritos: \n-1ºC > temperatura da sonda < +3ºC\nAs temperaturas para calibração estão identificadas no seguinte documento: IT.Propriedades do epoxy",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "303 A-LABOR | MAP - 4 - MAP-200 | Laboratório - RMM",
+      "Data": "2025-03-21",
+      "Tipo": "Planeada",
+      "Descricao": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "302 A-LABOR | MAP - 3 - MAP-200 | Laboratório - RMM",
+      "Data": "2025-03-21",
+      "Tipo": "Planeada",
+      "Descricao": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "291-MAQIND | Desenrolador 2 - Trunks Telenco - Desenrolador bobines Telenco | Máquinas industriais",
+      "Data": "2024-11-09",
+      "Tipo": "Planeada",
+      "Descricao": "I- Lubrificação do veio do pneumático e zona de movimento do mesmo;\nII- Lubrificação das rodas plásticas;\nIII- Limpeza geral;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Lubrificação do veio do pneumático e zona de movimento do mesmo;\nII- Lubrificação das rodas plásticas;\nIII- Limpeza geral;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "282 A-MAQIND | Máquina Laser p/ corte fibra | Máquinas industriais",
+      "Data": "2025-11-10",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpeza das fibras depositadas no interior do equipamento;\nII- Limpeza das lentes e dos espelhos no interior do equipamento;\nIII- Verificar filtro de carbono do sistema de vácuo e substituir\ncaso esteja a bloquear a passagem de ar;\nIV- Registar o contador Total job cleave;",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpeza das fibras depositadas no interior do equipamento;\nII- Limpeza das lentes e dos espelhos no interior do equipamento;\nIII- Verificar filtro de carbono do sistema de vácuo e substituir\ncaso esteja a bloquear a passagem de ar;\nIV- Registar o contador Total job cleave;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "275 A-LABOR | MAP - 2 - MAP-200 | Laboratório - RMM",
+      "Data": "2025-03-21",
+      "Tipo": "Planeada",
+      "Descricao": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "268-MAQIND | Máquina de Medição e corte EC3300 1 | Máquinas industriais",
+      "Data": "2025-06-16",
+      "Tipo": "Planeada",
+      "Descricao": "I -Verificação do aperto dos parafusos: pneumático da faca,\nafinação da faca e outros parafusos;\nII - Limpeza do rolo de tração. Lubrificação dos veios do\nsistema de corte. Limpeza geral da máquina;\nIII - Verificação da mediação\nEquipamento nº12 – Efetuar medições de despistagem a\n1000mm, 3000mm e 5000mm. Comparar medição da\nmáquina com valor real. Margem de erro não superior a\n200mm em relação à medida original.\nEquipamento nº268 e 384 – é ajustado o fator de\ncorreção em função da medida a cortar.",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I -Verificação do aperto dos parafusos: pneumático da faca,\nafinação da faca e outros parafusos;\nII - Limpeza do rolo de tração. Lubrificação dos veios do\nsistema de corte. Limpeza geral da máquina;\nIII - Verificação da mediação\nEquipamento nº12 – Efetuar medições de despistagem a\n1000mm, 3000mm e 5000mm. Comparar medição da\nmáquina com valor real. Margem de erro não superior a\n200mm em relação à medida original.\nEquipamento nº268 e 384 – é ajustado o fator de\ncorreção em função da medida a cortar.",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "125-MAQIND | Máquina Polir C | Máquinas industriais",
+      "Data": "2025-09-13",
+      "Tipo": "Planeada",
+      "Descricao": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "125-MAQIND | Máquina Polir C | Máquinas industriais",
+      "Data": "2025-09-13",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "125-MAQIND | Máquina Polir C | Máquinas industriais",
+      "Data": "2025-10-24",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "38-LABOR | PON Power Meter 1 | Laboratório - RMM",
+      "Data": "2025-11-03",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "33-MAQIND | Máquina Polir B | Máquinas industriais",
+      "Data": "2025-02-15",
+      "Tipo": "Planeada",
+      "Descricao": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "33-MAQIND | Máquina Polir B | Máquinas industriais",
+      "Data": "2025-09-13",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "33-MAQIND | Máquina Polir B | Máquinas industriais",
+      "Data": "2025-10-24",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "32-MAQIND | Máquina Polir A | Máquinas industriais",
+      "Data": "2025-02-15",
+      "Tipo": "Planeada",
+      "Descricao": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Conforme plano manutenção anual.\nTempo: previsto 60s;\nVoltas do prato: previsto 80;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "32-MAQIND | Máquina Polir A | Máquinas industriais",
+      "Data": "2026-04-02",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar o veio de suporte dos pneumáticos;\nII- Limpeza geral da máquina",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "32-MAQIND | Máquina Polir A | Máquinas industriais",
+      "Data": "2025-10-24",
+      "Tipo": "Planeada",
+      "Descricao": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Periodicidade": "Bimestral",
+      "TrabalhosRealizadosMaterialGasto": "I- Limpar e lubrificar os pneumáticos com óleo fino;\nII- Aplicar massa lubrificante no prato de polimento;\nIII- Limpar o filtro da ventoinha de refrigeração",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "31 A-LABOR | MAP - 1 - Plataforma teste JDSU | Laboratório - RMM",
+      "Data": "2025-03-21",
+      "Tipo": "Planeada",
+      "Descricao": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I- Substituição do patchcord de teste map200 > adaptador;\nII- Limpeza do conector da unidade map200;\nIII- Calibração da distância do painel frontal;\nIV- Calibração do rácio de potência do painel frontal;\nV- Calibração do power meter ótico remoto;\nVI- Atualização do software;",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "12-MAQIND | Máquina medicão e corte de fibra | Máquinas industriais",
+      "Data": "2026-01-29",
+      "Tipo": "Planeada",
+      "Descricao": "I -Verificação do aperto dos parafusos: pneumático da faca,\nafinação da faca e outros parafusos;\nII - Limpeza do rolo de tração. Lubrificação dos veios do\nsistema de corte. Limpeza geral da máquina;\nIII - Verificação da mediação\nEquipamento nº12 – Efetuar medições de despistagem a\n1000mm, 3000mm e 5000mm. Comparar medição da\nmáquina com valor real. Margem de erro não superior a\n200mm em relação à medida original.\nEquipamento nº268 e 384 – é ajustado o fator de\ncorreção em função da medida a cortar.",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "I -Verificação do aperto dos parafusos: pneumático da faca,\nafinação da faca e outros parafusos;\nII - Limpeza do rolo de tração. Lubrificação dos veios do\nsistema de corte. Limpeza geral da máquina;\nIII - Verificação da mediação\nEquipamento nº12 – Efetuar medições de despistagem a\n1000mm, 3000mm e 5000mm. Comparar medição da\nmáquina com valor real. Margem de erro não superior a\n200mm em relação à medida original.\nEquipamento nº268 e 384 – é ajustado o fator de\ncorreção em função da medida a cortar.",
       "Tecnico": "Renato Lopes",
       "Resultado": ""
     }
