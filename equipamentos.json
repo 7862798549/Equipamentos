@@ -20,7 +20,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2027-01-28"
     },
     {
       "Codigo": "31 A-LABOR | MAP - 1 - Plataforma teste JDSU | Laboratório - RMM",
@@ -31,7 +31,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2027-03-31"
     },
     {
       "Codigo": "32-MAQIND | Máquina Polir A | Máquinas industriais",
@@ -42,7 +42,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-08-10"
     },
     {
       "Codigo": "33-MAQIND | Máquina Polir B | Máquinas industriais",
@@ -53,7 +53,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-08-10"
     },
     {
       "Codigo": "38-LABOR | PON Power Meter 1 | Laboratório - RMM",
@@ -64,7 +64,7 @@
       "Localizacao": "Stock",
       "Estado": "Fora de Serviço",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-02"
     },
     {
       "Codigo": "65 B-LABOR | OTDR 1 Acessório | Laboratório - RMM",
@@ -75,7 +75,7 @@
       "Localizacao": "SE AX-36-DO",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-13"
     },
     {
       "Codigo": "71 A-LABOR | OTDR 2 | Laboratório - RMM",
@@ -86,7 +86,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-25"
     },
     {
       "Codigo": "81-LABOR | PON Power Meter 3 | Laboratório - RMM",
@@ -97,7 +97,7 @@
       "Localizacao": "Stock",
       "Estado": "Fora de Serviço",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-27"
     },
     {
       "Codigo": "89 A-LABOR | OTDR 3 | Laboratório - RMM",
@@ -108,7 +108,7 @@
       "Localizacao": "SE AV-49-VF",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-27"
     },
     {
       "Codigo": "90-LABOR | PON Power Meter 4 | Laboratório - RMM",
@@ -119,7 +119,7 @@
       "Localizacao": "SE AV-49-VF",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-06-11"
     },
     {
       "Codigo": "103-LABOR | PON Power Meter 5 | Laboratório - RMM",
@@ -130,7 +130,7 @@
       "Localizacao": "",
       "Estado": "Fora de Serviço",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-02"
     },
     {
       "Codigo": "115 A-MAQIND | Máquina de fusão 4 | Máquinas industriais",
@@ -141,7 +141,7 @@
       "Localizacao": "SE AV-49-VF",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-13"
     },
     {
       "Codigo": "116 A-LABOR | OTDR 4 | Laboratório - RMM",
@@ -152,7 +152,7 @@
       "Localizacao": "SE AB-93-JO",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-27"
     },
     {
       "Codigo": "123 A-MAQIND | Máquina de fusão 5 | Máquinas industriais",
@@ -163,7 +163,7 @@
       "Localizacao": "SE AV-59-VF",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-02"
     },
     {
       "Codigo": "125-MAQIND | Máquina Polir C | Máquinas industriais",
@@ -174,7 +174,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-08-10"
     },
     {
       "Codigo": "126 A-MAQIND | Máquina de fusão 6 | Máquinas industriais",
@@ -185,7 +185,7 @@
       "Localizacao": "SE AB-93-JO",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-27"
     },
     {
       "Codigo": "268-MAQIND | Máquina de Medição e corte EC3300 1 | Máquinas industriais",
@@ -196,7 +196,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-06-15"
     },
     {
       "Codigo": "275 A-LABOR | MAP - 2 - MAP-200 | Laboratório - RMM",
@@ -207,7 +207,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2027-03-31"
     },
     {
       "Codigo": "282 A-MAQIND | Máquina Laser p/ corte fibra | Máquinas industriais",
@@ -218,7 +218,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-07-06"
     },
     {
       "Codigo": "291-MAQIND | Desenrolador 2 - Trunks Telenco - Desenrolador bobines Telenco | Máquinas industriais",
@@ -229,7 +229,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2025-11-08"
     },
     {
       "Codigo": "302 A-LABOR | MAP - 3 - MAP-200 | Laboratório - RMM",
@@ -240,7 +240,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2027-03-31"
     },
     {
       "Codigo": "303 A-LABOR | MAP - 4 - MAP-200 | Laboratório - RMM",
@@ -251,7 +251,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2027-03-31"
     },
     {
       "Codigo": "308-EQUIP | Forno 10 | Equipamentos",
@@ -262,7 +262,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-28"
     },
     {
       "Codigo": "315 A-LABOR | Termómetro c/ registo p/ HACCP | Laboratório - RMM",
@@ -273,7 +273,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-07-04"
     },
     {
       "Codigo": "316-EQUIP | Plataforma Modular 1 | Equipamentos",
@@ -284,7 +284,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-09-07"
     },
     {
       "Codigo": "321-EQUIP | Plataforma Modular 2 | Equipamentos",
@@ -295,7 +295,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-27"
     },
     {
       "Codigo": "322-LABOR | Modulo p/ OTDR MM | Laboratório - RMM",
@@ -306,7 +306,7 @@
       "Localizacao": "SE AX-36-DO",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-02"
     },
     {
       "Codigo": "356-ELET | UPS - Uninterruptible power supply | Elétrico / eletrónico",
@@ -317,7 +317,7 @@
       "Localizacao": "Escritório Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2025-12-15"
     },
     {
       "Codigo": "357-TI | Servidor (6x discos 300GB) | Informática / TI",
@@ -328,7 +328,7 @@
       "Localizacao": "Escritório Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-01-09"
     },
     {
       "Codigo": "384-MAQIND | Máquina de Medição e corte EC3300 2 | Máquinas industriais",
@@ -339,7 +339,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2022-11-05"
     },
     {
       "Codigo": "385-MAQIND | Desenrolador bobines Telenco | Máquinas industriais",
@@ -350,7 +350,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2022-11-05"
     },
     {
       "Codigo": "405-MAQIND | Máquina Inserção Hidraulica | Máquinas industriais",
@@ -361,7 +361,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-05-04"
     },
     {
       "Codigo": "406-EQUIP | Secador ar comprimido | Equipamentos",
@@ -372,7 +372,7 @@
       "Localizacao": "Cargas e Descargas",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-01-09"
     },
     {
       "Codigo": "408-MAQIND | Máquina Polir D | Máquinas industriais",
@@ -383,7 +383,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2025-12-19"
     },
     {
       "Codigo": "409-MAQIND | Máquina Quinadora Electríca | Máquinas industriais",
@@ -394,7 +394,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2025-12-01"
     },
     {
       "Codigo": "436 A-EQUIP | Compressor parafuso de ar comprimido | Equipamentos",
@@ -405,7 +405,7 @@
       "Localizacao": "Cargas e Descargas",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-01-09"
     },
     {
       "Codigo": "439 A-MAQIND | Máquina de Laser  | Máquinas industriais",
@@ -416,7 +416,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-02-02"
     },
     {
       "Codigo": "440 A-MAQIND | Máquina Soldar TIG | Máquinas industriais",
@@ -427,7 +427,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-09-07"
     },
     {
       "Codigo": "441 A-MAQIND | Máquina Soldar por Pontos  | Máquinas industriais",
@@ -438,7 +438,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-07-20"
     },
     {
       "Codigo": "442-MAQIND | Máquina Soldar Pernos | Máquinas industriais",
@@ -449,7 +449,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-07-20"
     },
     {
       "Codigo": "443 A-EQUIP | Compressor | Equipamentos",
@@ -460,7 +460,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2025-06-05"
     },
     {
       "Codigo": "461 A-FERRAM | Serrote de Fita | Ferramentas",
@@ -471,7 +471,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "471-MAQIND | Impressora 3D 1 | Máquinas industriais",
@@ -482,7 +482,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "472-MAQIND | Impressora 3D 2 | Máquinas industriais",
@@ -493,7 +493,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "473-MAQIND | Impressora 3D 3 | Máquinas industriais",
@@ -504,7 +504,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "485 A1-MAQIND | Máquina de fusão 12 | Máquinas industriais",
@@ -515,7 +515,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-28"
     },
     {
       "Codigo": "498 A-MAQIND | Máquina de Soldar  MIG MAG | Máquinas industriais",
@@ -526,7 +526,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2025-12-04"
     },
     {
       "Codigo": "512-MAQIND | Impressora 3D 4 | Máquinas industriais",
@@ -537,7 +537,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "518-MAQIND | Máquina polir E | Máquinas industriais",
@@ -548,7 +548,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2025-12-19"
     },
     {
       "Codigo": "525A-MAQIND | Máquina Quinadora  | Máquinas industriais",
@@ -559,7 +559,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "529 A-MAQIND | Máquina Soldar MIG MAG | Máquinas industriais",
@@ -570,7 +570,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "530 A-MAQIND | Serrote de Fita 2 | Máquinas industriais",
@@ -581,7 +581,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-06-30"
     },
     {
       "Codigo": "548-MAQIND | Prensa Electro-Hidráulica | Máquinas industriais",
@@ -592,7 +592,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "550-MAQIND | Máquina polidora de fita | Máquinas industriais",
@@ -603,7 +603,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "565-MAQIND | Curvadora de tubos  | Máquinas industriais",
@@ -614,7 +614,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "568 A-MAQIND | Curvadora de tubos, perfis e calandra | Máquinas industriais",
@@ -625,7 +625,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "576-MAQIND | Impressora 3D 5 | Máquinas industriais",
@@ -636,7 +636,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "577-MAQIND | Impressora 3D 6 | Máquinas industriais",
@@ -647,7 +647,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "579 A-MAQIND | Máquina Soldar MIG MAG 2 | Máquinas industriais",
@@ -658,7 +658,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-06-30"
     },
     {
       "Codigo": "587 A-LABOR | Fontes Opticas de Laser SM/MM | Laboratório - RMM",
@@ -669,7 +669,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-05"
     },
     {
       "Codigo": "587 B-LABOR | Fontes Opticas de Laser SM/MM - Meter | Laboratório - RMM",
@@ -680,7 +680,7 @@
       "Localizacao": "SE AB-93-JO",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-05"
     },
     {
       "Codigo": "590 A-MAQIND | Máquina Soldar MIG MAG 3 | Máquinas industriais",
@@ -691,7 +691,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-06-30"
     },
     {
       "Codigo": "592 A-LABOR | PON Power Meter 7 | Laboratório - RMM",
@@ -702,7 +702,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2024-01-24"
     },
     {
       "Codigo": "592 B-LABOR | PON Power Meter 8 | Laboratório - RMM",
@@ -713,7 +713,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2024-01-24"
     },
     {
       "Codigo": "614-FERRAM | Serrote Disco  | Ferramentas",
@@ -724,7 +724,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-06-30"
     },
     {
       "Codigo": "617-MAQIND | Máquina de limpeza de soldadura | Máquinas industriais",
@@ -735,7 +735,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
@@ -746,7 +746,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-07-31"
     },
     {
       "Codigo": "641-MAQIND | Impressora 3D 8 | Máquinas industriais",
@@ -757,7 +757,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "642-MAQIND | Impressora 3D 9 | Máquinas industriais",
@@ -768,7 +768,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "644-MAQIND | Máquina de Soldadura a Laser | Máquinas industriais",
@@ -779,7 +779,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-06-30"
     },
     {
       "Codigo": "652-MAQIND | Impressora 3D 10 | Máquinas industriais",
@@ -790,7 +790,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "653-MAQIND | Impressora 3D 11 | Máquinas industriais",
@@ -801,7 +801,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "670-MAQIND | Impressora 3D 12 | Máquinas industriais",
@@ -812,7 +812,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "676-EQUIP | Forno 14 | Equipamentos",
@@ -823,7 +823,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-06"
     },
     {
       "Codigo": "677-EQUIP | Forno 15 | Equipamentos",
@@ -834,7 +834,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-10"
     },
     {
       "Codigo": "678-EQUIP | Forno 16 | Equipamentos",
@@ -845,7 +845,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-10"
     },
     {
       "Codigo": "679 A-MAQIND | Máquina de limpeza superficies planas | Máquinas industriais",
@@ -856,7 +856,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2027-07-22"
     },
     {
       "Codigo": "686-EQUIP | Forno 17 | Equipamentos",
@@ -867,7 +867,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-02"
     },
     {
       "Codigo": "687-EQUIP | Forno 18 | Equipamentos",
@@ -878,7 +878,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-02"
     },
     {
       "Codigo": "688 A-MAQIND | Fresadora 1 | Máquinas industriais",
@@ -900,7 +900,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-22"
     },
     {
       "Codigo": "695-EQUIP | Forno 20 | Equipamentos",
@@ -911,7 +911,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-22"
     },
     {
       "Codigo": "706-EQUIP | Forno 21 | Equipamentos",
@@ -922,7 +922,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-15"
     },
     {
       "Codigo": "707-FERRAM | Cleaver 1 | Ferramentas",
@@ -933,7 +933,7 @@
       "Localizacao": "SE AX-36-DO",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-27"
     },
     {
       "Codigo": "708-FERRAM | Cleaver 2 | Ferramentas",
@@ -944,7 +944,7 @@
       "Localizacao": "SE AV-49-VF",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-10-27"
     },
     {
       "Codigo": "709-FERRAM | Cleaver 3 | Ferramentas",
@@ -955,7 +955,7 @@
       "Localizacao": "SE AV-59-VF",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-06-30"
     },
     {
       "Codigo": "728 A-LABOR | Módulo OLTS MM/SM 1 | Laboratório - RMM",
@@ -966,7 +966,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-08-24"
     },
     {
       "Codigo": "728 B-LABOR | Módulo OLTS  MM/SM 2 | Laboratório - RMM",
@@ -977,7 +977,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-13"
     },
     {
       "Codigo": "729 A-LABOR | OTDR SM/MM 1 | Laboratório - RMM",
@@ -988,7 +988,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-11-02"
     },
     {
       "Codigo": "729 B-LABOR | OTDR SM/MM 1A | Laboratório - RMM",
@@ -999,7 +999,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-09-07"
     },
     {
       "Codigo": "731-FERRAM | Cleaver 4 | Ferramentas",
@@ -1010,7 +1010,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-01-29"
     },
     {
       "Codigo": "750-MAQIND | Impressora 3D 13 | Máquinas industriais",
@@ -1021,7 +1021,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "751-MAQIND | Impressora 3D 14 | Máquinas industriais",
@@ -1032,7 +1032,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "752-MAQIND | Impressora 3D 15 | Máquinas industriais",
@@ -1043,7 +1043,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "755-MAQIND | Impressora 3D 16 | Máquinas industriais",
@@ -1054,7 +1054,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "756-MAQIND | Impressora 3D 17 | Máquinas industriais",
@@ -1065,7 +1065,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "757-MAQIND | Impressora 3D 18 | Máquinas industriais",
@@ -1076,7 +1076,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-04"
     },
     {
       "Codigo": "758-EQUIP | Fonte de luz 79 | Equipamentos",
@@ -1087,7 +1087,7 @@
       "Localizacao": "Stock",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2027-03-16"
     },
     {
       "Codigo": "777-EQUIP | Forno 22 | Equipamentos",
@@ -1098,7 +1098,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-30"
     },
     {
       "Codigo": "778-EQUIP | Forno 23 | Equipamentos",
@@ -1109,7 +1109,7 @@
       "Localizacao": "Produção Fibra",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "2026-12-30"
     },
     {
       "Codigo": "836 A-MAQIND | Máquina Soldar TIG 2 | Máquinas industriais",
@@ -1120,7 +1120,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": null
+      "ProximaManutencao": "1900-12-29"
     },
     {
       "Codigo": "855 A-MAQIND | Fresadora 2 | Máquinas industriais",
