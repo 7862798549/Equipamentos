@@ -2586,6 +2586,16 @@
       "Resultado": ""
     },
     {
+      "CodigoEquipamento": "485 A1-MAQIND | Máquina de fusão 12 | Máquinas industriais",
+      "Data": "2025-12-29",
+      "Tipo": "Planeada",
+      "Descricao": "",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Renato Lopes",
+      "Resultado": ""
+    },
+    {
       "CodigoEquipamento": "473-MAQIND | Impressora 3D 3 | Máquinas industriais",
       "Data": "2025-06-18",
       "Tipo": "Planeada",
