@@ -1110,6 +1110,17 @@
       "Estado": "Ativo",
       "UltimaManutencao": null,
       "ProximaManutencao": "2026-12-30"
+    },
+    {
+      "Codigo": "836 A-MAQIND | Máquina Soldar TIG 2 | Máquinas industriais",
+      "Designacao": "Máquina Soldar TIG 2",
+      "Marca": "ESAB",
+      "Modelo": "Renegade ET 210IP",
+      "NumeroSerie": "OP34226080488",
+      "Localizacao": "Produção Metal",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": "1900-12-29"
     }
   ],
   "Manutencoes": [
