@@ -1121,6 +1121,17 @@
       "Estado": "Ativo",
       "UltimaManutencao": null,
       "ProximaManutencao": "1900-12-29"
+    },
+    {
+      "Codigo": "855 A-MAQIND | Fresadora 2 | Máquinas industriais",
+      "Designacao": "Fresadora 2",
+      "Marca": "",
+      "Modelo": "",
+      "NumeroSerie": "UNC-25654",
+      "Localizacao": "Produção Automóvel",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": null
     }
   ],
   "Manutencoes": [
