@@ -43,26 +43,6 @@
       "TrabalhosRealizadosMaterialGasto": "Máquina \nI - Limpeza da Máquina; \nII - Verificar nivel de lubrificante de corte; \nIII - Verificar correto funcionamneto da máquina;",
       "Tecnico": "Luís Nunes",
       "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "529 A-MAQIND | Máquina Soldar MIG MAG | Máquinas industriais",
-      "Data": "2026-06-29",
-      "Tipo": "Planeada",
-      "Descricao": "Circuito de gás \nI - Verificar nível de refrigeração da tocha;\n II - Verificar a existencia de fuga na tubagens de gás; \nIII - Verificar estado e funcionamento do manometro de gás; \nIV - Limpeza da Maquina e carro de transporte; \nTocha de Cabo de Massa  \nV - Limpeza da Tocha;\n VI - Reapertar ponto de massa á mesa de soldar; \nVII - Verificar estado do cabo da massa e da tocha;",
-      "Periodicidade": "Semestral",
-      "TrabalhosRealizadosMaterialGasto": "Circuito de gás \nI - Verificar nível de refrigeração da tocha;\n II - Verificar a existencia de fuga na tubagens de gás; \nIII - Verificar estado e funcionamento do manometro de gás; \nIV - Limpeza da Maquina e carro de transporte; \nTocha de Cabo de Massa  \nV - Limpeza da Tocha;\n VI - Reapertar ponto de massa á mesa de soldar; \nVII - Verificar estado do cabo da massa e da tocha;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "548-MAQIND | Prensa Electro-Hidráulica | Máquinas industriais",
-      "Data": "2026-06-29",
-      "Tipo": "Planeada",
-      "Descricao": "Sistema Hidráulico \nI - Nível de óleo; \nII - Inexistência de fugas; \nIII - Verificar alinhamento do punção; \nFerramentas \nIV - Limpeza de Ferramentas; \nV - Verificar estado das ferramentas;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "Sistema Hidráulico \nI - Nível de óleo; \nII - Inexistência de fugas; \nIII - Verificar alinhamento do punção; \nFerramentas \nIV - Limpeza de Ferramentas; \nV - Verificar estado das ferramentas;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
     }
   ]
 }
