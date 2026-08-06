@@ -394,7 +394,7 @@
       "Localizacao": "Produção Metal",
       "Estado": "Ativo",
       "UltimaManutencao": null,
-      "ProximaManutencao": "2026-07-30"
+      "ProximaManutencao": "2026-08-31"
     },
     {
       "Codigo": "436 A-EQUIP | Compressor parafuso de ar comprimido | Equipamentos",
@@ -1135,6 +1135,16 @@
     }
   ],
   "Manutencoes": [
+    {
+      "CodigoEquipamento": "409-MAQIND | Máquina Quinadora Electríca | Máquinas industriais",
+      "Data": "2026-08-03",
+      "Tipo": "Planeada",
+      "Descricao": "Sistema Hidraulico\nI - Verificar nível de óleo; \nII - Limpar canais de aperto das ferramentas; \nIII - Verificar correto aperto das ferramentas; \nIV - Verificar nivel de oleo;\nPente \n V - Verificar funcionamento de lubrificação automatica; \nVI - Verificar desgaste das guias laterais do pente;\n VII - Verificar estado da massa de lubrificação;  \nEsbarros\nVIII - Verificar estado das guias lineares e fuso; \nIX - Limpar Esbarros;\nFerramentas \n X - Limpar Ferramentas com pano seco;",
+      "Periodicidade": "Mensal",
+      "TrabalhosRealizadosMaterialGasto": "Sistema Hidraulico\nI - Verificar nível de óleo; \nII - Limpar canais de aperto das ferramentas; \nIII - Verificar correto aperto das ferramentas; \nIV - Verificar nivel de oleo;\nPente \n V - Verificar funcionamento de lubrificação automatica; \nVI - Verificar desgaste das guias laterais do pente;\n VII - Verificar estado da massa de lubrificação;  \nEsbarros\nVIII - Verificar estado das guias lineares e fuso; \nIX - Limpar Esbarros;\nFerramentas \n X - Limpar Ferramentas com pano seco;",
+      "Tecnico": "Gonçalo",
+      "Resultado": ""
+    },
     {
       "CodigoEquipamento": "620-MAQIND | Impressora de impressão UV  | Máquinas industriais",
       "Data": "2026-07-03",
