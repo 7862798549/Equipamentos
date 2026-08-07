@@ -175,149 +175,6 @@
       "Estado": "Ativo",
       "UltimaManutencao": null,
       "ProximaManutencao": "1900-12-29"
-    },
-    {
-      "Codigo": "568 A-MAQIND | Curvadora de tubos, perfis e calandra | Máquinas industriais",
-      "Designacao": "Curvadora de tubos, perfis e calandra",
-      "Marca": "AMOB",
-      "Modelo": "MAH-60/3 CNC",
-      "NumeroSerie": "11117",
-      "Localizacao": "Produção Metal",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "1900-12-29"
-    },
-    {
-      "Codigo": "579 A-MAQIND | Máquina Soldar MIG MAG 2 | Máquinas industriais",
-      "Designacao": "Máquina Soldar MIG MAG 2",
-      "Marca": "ESAB",
-      "Modelo": "Aristo 500IC",
-      "NumeroSerie": "9412382645",
-      "Localizacao": "Produção Metal",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "1900-06-30"
-    },
-    {
-      "Codigo": "590 A-MAQIND | Máquina Soldar MIG MAG 3 | Máquinas industriais",
-      "Designacao": "Máquina Soldar MIG MAG 3",
-      "Marca": "ESAB",
-      "Modelo": "Rebel 320IC",
-      "NumeroSerie": "CA73021460069",
-      "Localizacao": "Produção Metal",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "1900-06-30"
-    },
-    {
-      "Codigo": "614-FERRAM | Serrote Disco  | Ferramentas",
-      "Designacao": "Serrote Disco",
-      "Marca": "FLOTT",
-      "Modelo": "KS 315M",
-      "NumeroSerie": "23/00122",
-      "Localizacao": "Produção Metal",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "1900-06-30"
-    },
-    {
-      "Codigo": "617-MAQIND | Máquina de limpeza de soldadura | Máquinas industriais",
-      "Designacao": "Máquina de limpeza de soldadura",
-      "Marca": "Weldbrush",
-      "Modelo": "WB 500",
-      "NumeroSerie": "MP500-2106",
-      "Localizacao": "Produção Metal",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "1900-12-29"
-    },
-    {
-      "Codigo": "644-MAQIND | Máquina de Soldadura a Laser | Máquinas industriais",
-      "Designacao": "Máquina de Soldadura a Laser",
-      "Marca": "Nande",
-      "Modelo": "Class IV",
-      "NumeroSerie": "2002019029",
-      "Localizacao": "Produção Metal",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "1900-06-30"
-    },
-    {
-      "Codigo": "679 A-MAQIND | Máquina de limpeza superficies planas | Máquinas industriais",
-      "Designacao": "Máquina de limpeza superficies planas",
-      "Marca": "NS",
-      "Modelo": "FC120-ZK_201.022",
-      "NumeroSerie": "4050",
-      "Localizacao": "Produção Metal",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "2027-07-22"
-    },
-    {
-      "Codigo": "688 A-MAQIND | Fresadora 1 | Máquinas industriais",
-      "Designacao": "Fresadora 1",
-      "Marca": "UNICO",
-      "Modelo": "UNICO CNC - K 3D",
-      "NumeroSerie": "UNC - 22547",
-      "Localizacao": "Produção Automóvel",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": null
-    },
-    {
-      "Codigo": "707-FERRAM | Cleaver 1 | Ferramentas",
-      "Designacao": "Cleaver 1",
-      "Marca": "Fujikura",
-      "Modelo": "CT50",
-      "NumeroSerie": "155261",
-      "Localizacao": "SE AX-36-DO",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "2026-10-27"
-    },
-    {
-      "Codigo": "708-FERRAM | Cleaver 2 | Ferramentas",
-      "Designacao": "Cleaver 2",
-      "Marca": "Fujikura",
-      "Modelo": "CT50",
-      "NumeroSerie": "154955",
-      "Localizacao": "SE AV-49-VF",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "2026-10-27"
-    },
-    {
-      "Codigo": "709-FERRAM | Cleaver 3 | Ferramentas",
-      "Designacao": "Cleaver 3",
-      "Marca": "Fujikura",
-      "Modelo": "CT50",
-      "NumeroSerie": "156687",
-      "Localizacao": "SE AV-59-VF",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "2026-06-30"
-    },
-    {
-      "Codigo": "836 A-MAQIND | Máquina Soldar TIG 2 | Máquinas industriais",
-      "Designacao": "Máquina Soldar TIG 2",
-      "Marca": "ESAB",
-      "Modelo": "Renegade ET 210IP",
-      "NumeroSerie": "OP34226080488",
-      "Localizacao": "Produção Metal",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": "1900-12-29"
-    },
-    {
-      "Codigo": "855 A-MAQIND | Fresadora 2 | Máquinas industriais",
-      "Designacao": "Fresadora 2",
-      "Marca": "",
-      "Modelo": "",
-      "NumeroSerie": "UNC-25654",
-      "Localizacao": "Produção Automóvel",
-      "Estado": "Ativo",
-      "UltimaManutencao": null,
-      "ProximaManutencao": null
     }
   ],
   "Manutencoes": [
@@ -372,12 +229,52 @@
       "Resultado": ""
     },
     {
+      "CodigoEquipamento": "617-MAQIND | Máquina de limpeza de soldadura | Máquinas industriais",
+      "Data": "2026-04-15",
+      "Tipo": "Planeada",
+      "Descricao": "Máquina \nI - Limpeza geral da máquina; \nII - Manter os cabos limpos e organizados;\nIII - Verificar o estado das pinças de limpeza e substituir quando necessário;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Máquina \nI - Limpeza geral da máquina; \nII - Manter os cabos limpos e organizados;\nIII - Verificar o estado das pinças de limpeza e substituir quando necessário;",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
       "CodigoEquipamento": "461 A-FERRAM | Serrote de Fita | Ferramentas",
       "Data": "2026-01-26",
       "Tipo": "Planeada",
-      "Descricao": "Máquina \nI - Limpeza da Máquina; \nII - Verificar nivel de lubrificante de corte; \nIII - Verificar correto funcionamneto da máquina;",
+      "Descricao": "",
       "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "Máquina \nI - Limpeza da Máquina; \nII - Verificar nivel de lubrificante de corte; \nIII - Verificar correto funcionamneto da máquina;",
+      "TrabalhosRealizadosMaterialGasto": "",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "590 A-MAQIND | Máquina Soldar MIG MAG 3 | Máquinas industriais",
+      "Data": "2026-06-29",
+      "Tipo": "Planeada",
+      "Descricao": "III - Verificar o estado das pinças de limpeza e substituir quando necessário;",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "III - Verificar o estado das pinças de limpeza e substituir quando necessário;",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "579 A-MAQIND | Máquina Soldar MIG MAG 2 | Máquinas industriais",
+      "Data": "2026-06-29",
+      "Tipo": "Planeada",
+      "Descricao": "Circuito de gás \nI - Verificar nível de refrigeração da tocha;\n II - Verificar a existencia de fuga na tubagens de gás; \nIII - Verificar estado e funcionamento do manometro de gás; \nIV - Limpeza da Maquina e carro de transporte; \nTocha de Cabo de Massa  \nV - Limpeza da Tocha;\n VI - Reapertar ponto de massa á mesa de soldar; \nVII - Verificar estado do cabo da massa e da tocha;",
+      "Periodicidade": "Semestral",
+      "TrabalhosRealizadosMaterialGasto": "Circuito de gás \nI - Verificar nível de refrigeração da tocha;\n II - Verificar a existencia de fuga na tubagens de gás; \nIII - Verificar estado e funcionamento do manometro de gás; \nIV - Limpeza da Maquina e carro de transporte; \nTocha de Cabo de Massa  \nV - Limpeza da Tocha;\n VI - Reapertar ponto de massa á mesa de soldar; \nVII - Verificar estado do cabo da massa e da tocha;",
+      "Tecnico": "Luís Nunes",
+      "Resultado": ""
+    },
+    {
+      "CodigoEquipamento": "568 A-MAQIND | Curvadora de tubos, perfis e calandra | Máquinas industriais",
+      "Data": "2026-06-26",
+      "Tipo": "Planeada",
+      "Descricao": "Máquina\n I - Limpeza da Máquina; \nII - Verificar nível de óleo da caixa redutora; \nIII - Lubrificar engrenagens de transmissão;\nIV - Verificar o correto funcionamento da máquina;",
+      "Periodicidade": "Anual",
+      "TrabalhosRealizadosMaterialGasto": "Máquina\n I - Limpeza da Máquina; \nII - Verificar nível de óleo da caixa redutora; \nIII - Lubrificar engrenagens de transmissão;\nIV - Verificar o correto funcionamento da máquina;",
       "Tecnico": "Luís Nunes",
       "Resultado": ""
     },
@@ -395,9 +292,9 @@
       "CodigoEquipamento": "550-MAQIND | Máquina polidora de fita | Máquinas industriais",
       "Data": "2026-06-29",
       "Tipo": "Planeada",
-      "Descricao": "",
+      "Descricao": "Máquina \nI - Limpeza da Máquina; \nII - Verificar do estado da Mola;\nIII - Verificação do estado dos rolos \"guia\" da fita;",
       "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "",
+      "TrabalhosRealizadosMaterialGasto": "Máquina \nI - Limpeza da Máquina; \nII - Verificar do estado da Mola;\nIII - Verificação do estado dos rolos \"guia\" da fita;",
       "Tecnico": "Luís Nunes",
       "Resultado": ""
     },
@@ -418,196 +315,6 @@
       "Descricao": "Máquina \nI - Limpeza da Máquina; \nII - Verificar nivel de lubrificante de corte; \nIII - Verificar correto funcionamneto da máquina;",
       "Periodicidade": "Semestral",
       "TrabalhosRealizadosMaterialGasto": "Máquina \nI - Limpeza da Máquina; \nII - Verificar nivel de lubrificante de corte; \nIII - Verificar correto funcionamneto da máquina;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "525A-MAQIND | Máquina Quinadora  | Máquinas industriais",
-      "Data": "2026-07-02",
-      "Tipo": "Planeada",
-      "Descricao": "Mesa de Quinagem\nI - Reposição nivel oleo hidraulico;\nII - Limpeza do filtro; \n\nPente\nIII - Lubrificar guias e rolamentos laterais;\nIV - Reposição nivel de óleo sistema de lubrificação automática;\n\nEsbarros \nV - Lubrificar guias lineares e fuso;\nVI - Limpeza do filtro dos ventiladores;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "Mesa de Quinagem\nI - Reposição nivel oleo hidraulico;\nII - Limpeza do filtro; \n\nPente\nIII - Lubrificar guias e rolamentos laterais;\nIV - Reposição nivel de óleo sistema de lubrificação automática;\n\nEsbarros \nV - Lubrificar guias lineares e fuso;\nVI - Limpeza do filtro dos ventiladores;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "525A-MAQIND | Máquina Quinadora  | Máquinas industriais",
-      "Data": "2026-07-02",
-      "Tipo": "Planeada",
-      "Descricao": "Mesa de Quinagem\nI - Reposição nivel oleo hidraulico;\nII - Limpeza do filtro; \n\nPente\nIII - Reposição nivel de oleo sistema de lubrificação automatica;\nIV - Lubrificar guias lineares e fuso;\n\nQuadro Eléctrico \nVII - Limpeza do filtro dos ventiladores;",
-      "Periodicidade": "Semestral",
-      "TrabalhosRealizadosMaterialGasto": "Mesa de Quinagem\nI - Reposição nivel oleo hidraulico;\nII - Limpeza do filtro; \n\nPente\nIII - Reposição nivel de oleo sistema de lubrificação automatica;\nIV - Lubrificar guias lineares e fuso;\n\nQuadro Eléctrico \nVII - Limpeza do filtro dos ventiladores;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "525A-MAQIND | Máquina Quinadora  | Máquinas industriais",
-      "Data": "2026-06-02",
-      "Tipo": "Planeada",
-      "Descricao": "Mesa de Quinagem\nI - Verificar nível de óleo; \nII - Limpar canais de aperto das ferramentas; \nIII - Verificar correto aperto das ferramentas; \nPente \nIV - Verificar nivel de oleo;\n V - Verificar funcionamento de lubrificação automatica; \nEsbarros\nVI - Verificar desgaste das guias laterais do fuso;\n VII - Limpar Esbarros  \nFerramentas\n\n VIII - Limpar Ferramentas com pano seco;",
-      "Periodicidade": "Mensal",
-      "TrabalhosRealizadosMaterialGasto": "Mesa de Quinagem\nI - Verificar nível de óleo; \nII - Limpar canais de aperto das ferramentas; \nIII - Verificar correto aperto das ferramentas; \nPente \nIV - Verificar nivel de oleo;\n V - Verificar funcionamento de lubrificação automatica; \nEsbarros\nVI - Verificar desgaste das guias laterais do fuso;\n VII - Limpar Esbarros  \nFerramentas\n\n VIII - Limpar Ferramentas com pano seco;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "498 A-MAQIND | Máquina de Soldar  MIG MAG | Máquinas industriais",
-      "Data": "2026-06-29",
-      "Tipo": "Planeada",
-      "Descricao": "Circuito de gás \nI - Verificar nível de refrigeração da tocha;\n II - Verificar a existencia de fuga na tubagens de gás; \nIII - Verificar estado e funcionamento do manometro de gás; \nIV - Limpeza da Maquina e carro de transporte; \nTocha de Cabo de Massa  \nV - Limpeza da Tocha;\n VI - Reapertar ponto de massa á mesa de soldar; \nVII - Verificar estado do cabo da massa e da tocha;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "Circuito de gás \nI - Verificar nível de refrigeração da tocha;\n II - Verificar a existencia de fuga na tubagens de gás; \nIII - Verificar estado e funcionamento do manometro de gás; \nIV - Limpeza da Maquina e carro de transporte; \nTocha de Cabo de Massa  \nV - Limpeza da Tocha;\n VI - Reapertar ponto de massa á mesa de soldar; \nVII - Verificar estado do cabo da massa e da tocha;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "443 A-EQUIP | Compressor | Equipamentos",
-      "Data": "2026-02-02",
-      "Tipo": "Planeada",
-      "Descricao": "Compressor \nI - Limpeza do compressor; \nII - Verificar Nivel de oleo;\n III - Confirmar correto funcionamento; \nSecador \nIV - Limpeza do secador; \nV - Verificar existencia de fugas nas tubagens; \nVI - Confirmar correto funcionamento; \nDeposito de condensados e filtros\nVII - Limpeza do depósito; \nVIII - Testar funcionamento do purgador;\n IX - Esvaziar recipiente de condensados; \nDepósito de Ar\nX - Limpeza do depósito;  \nXI - Testar funcionamento do purgador; \nXII - Verificar existencia de fugas nas tubagens;",
-      "Periodicidade": "Semestral",
-      "TrabalhosRealizadosMaterialGasto": "Compressor \nI - Limpeza do compressor; \nII - Verificar Nivel de oleo;\n III - Confirmar correto funcionamento; \nSecador \nIV - Limpeza do secador; \nV - Verificar existencia de fugas nas tubagens; \nVI - Confirmar correto funcionamento; \nDeposito de condensados e filtros\nVII - Limpeza do depósito; \nVIII - Testar funcionamento do purgador;\n IX - Esvaziar recipiente de condensados; \nDepósito de Ar\nX - Limpeza do depósito;  \nXI - Testar funcionamento do purgador; \nXII - Verificar existencia de fugas nas tubagens;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "442-MAQIND | Máquina Soldar Pernos | Máquinas industriais",
-      "Data": "2026-06-18",
-      "Tipo": "Planeada",
-      "Descricao": "Máquina\nI - Limpeza da maquina e acessórios;\nII - Verificar estado da pistola; \nIII - Verificar estado dos cabos; \nIV - Verificar estado dos alicates de massa;\n V - Verificar correto funcionamneto da maquina;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "Máquina\nI - Limpeza da maquina e acessórios;\nII - Verificar estado da pistola; \nIII - Verificar estado dos cabos; \nIV - Verificar estado dos alicates de massa;\n V - Verificar correto funcionamneto da maquina;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "441 A-MAQIND | Máquina Soldar por Pontos  | Máquinas industriais",
-      "Data": "2026-04-08",
-      "Tipo": "Planeada",
-      "Descricao": "I - Limpeza da maquina e acessórios;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "I - Limpeza da maquina e acessórios;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "440 A-MAQIND | Máquina Soldar TIG | Máquinas industriais",
-      "Data": "2026-03-23",
-      "Tipo": "Planeada",
-      "Descricao": "II - Verificar estado da pistola;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "II - Verificar estado da pistola;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "405-MAQIND | Máquina Inserção Hidraulica | Máquinas industriais",
-      "Data": "2026-01-27",
-      "Tipo": "Planeada",
-      "Descricao": "III - Verificar estado dos cabos;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "III - Verificar estado dos cabos;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "405-MAQIND | Máquina Inserção Hidraulica | Máquinas industriais",
-      "Data": "2026-06-29",
-      "Tipo": "Planeada",
-      "Descricao": "IV - Verificar estado dos alicates de massa;",
-      "Periodicidade": "Semestral",
-      "TrabalhosRealizadosMaterialGasto": "IV - Verificar estado dos alicates de massa;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "409-MAQIND | Máquina Quinadora Electríca | Máquinas industriais",
-      "Data": "2026-07-02",
-      "Tipo": "Planeada",
-      "Descricao": "V - Verificar correto funcionamneto da maquina;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "V - Verificar correto funcionamneto da maquina;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "409-MAQIND | Máquina Quinadora Electríca | Máquinas industriais",
-      "Data": "2026-07-01",
-      "Tipo": "Planeada",
-      "Descricao": "Sistema Hidrualico           \nI - Reposição nivel oleo hidrualico; \nII - Limpeza de filtro; \nPente \nIII - Lubrificar guias e rolamentos laterais; \nIV - Reposição nivel de oleo sistema de lubrificação automatica;\n V - Calibrar fotocelulas de segurança; \nEsbarros \nVI - Lubrificar guias lineares e fuso: \nQuadro Eléctrico \nVII - Limpeza do filtro dos ventiladores;",
-      "Periodicidade": "Semestral",
-      "TrabalhosRealizadosMaterialGasto": "Sistema Hidrualico           \nI - Reposição nivel oleo hidrualico; \nII - Limpeza de filtro; \nPente \nIII - Lubrificar guias e rolamentos laterais; \nIV - Reposição nivel de oleo sistema de lubrificação automatica;\n V - Calibrar fotocelulas de segurança; \nEsbarros \nVI - Lubrificar guias lineares e fuso: \nQuadro Eléctrico \nVII - Limpeza do filtro dos ventiladores;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "409-MAQIND | Máquina Quinadora Electríca | Máquinas industriais",
-      "Data": "2026-07-02",
-      "Tipo": "Planeada",
-      "Descricao": "Sistema Hidraulico\nI - Verificar nível de óleo; \nII - Limpar canais de aperto das ferramentas; \nIII - Verificar correto aperto das ferramentas; \nIV - Verificar nivel de oleo;\nPente \n V - Verificar funcionamento de lubrificação automatica; \nVI - Verificar desgaste das guias laterais do pente;\n VII - Verificar estado da massa de lubrificação;  \nEsbarros\nVIII - Verificar estado das guias lineares e fuso; \nIX - Limpar Esbarros;\nFerramentas \n X - Limpar Ferramentas com pano seco;",
-      "Periodicidade": "Mensal",
-      "TrabalhosRealizadosMaterialGasto": "Sistema Hidraulico\nI - Verificar nível de óleo; \nII - Limpar canais de aperto das ferramentas; \nIII - Verificar correto aperto das ferramentas; \nIV - Verificar nivel de oleo;\nPente \n V - Verificar funcionamento de lubrificação automatica; \nVI - Verificar desgaste das guias laterais do pente;\n VII - Verificar estado da massa de lubrificação;  \nEsbarros\nVIII - Verificar estado das guias lineares e fuso; \nIX - Limpar Esbarros;\nFerramentas \n X - Limpar Ferramentas com pano seco;",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "707-FERRAM | Cleaver 1 | Ferramentas",
-      "Data": "2025-10-28",
-      "Tipo": "Planeada",
-      "Descricao": "",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "",
-      "Tecnico": "Renato Lopes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "708-FERRAM | Cleaver 2 | Ferramentas",
-      "Data": "2025-10-28",
-      "Tipo": "Planeada",
-      "Descricao": "VIII - Limpar Ferramentas com pano seco;",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "VIII - Limpar Ferramentas com pano seco;",
-      "Tecnico": "Renato Lopes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "709-FERRAM | Cleaver 3 | Ferramentas",
-      "Data": "2025-07-01",
-      "Tipo": "Planeada",
-      "Descricao": "",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "",
-      "Tecnico": "Renato Lopes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "439 A-MAQIND | Máquina de Laser  | Máquinas industriais",
-      "Data": "2026-07-11",
-      "Tipo": "Planeada",
-      "Descricao": "I - Verificar nivel oleo hidraulico;                                                                                                                                                        II - Verificar a existencia de peças desgastas;                                                                                                                                  III - Lubrificação de corretes;                                                                                                                                                 IV - Limpeza de filtro;                                                                                                                                                                        V -  Reposição nivel de agua destilada;                                                                                                                                                         VI - Substituir bico de corte;                                                                                                                                                            VII - Substituir lente de proteção;                                                                                                                                                 VIII - Reposição de nivel de oleo do sistema de lubrificação automatica;                                                                                            IX - Lubrificação de engrenagem das portas;                                                                                                                                                             X - Limpeza de Filtro de AR;                                                                                                                                                           XI - Limpeza do filtro dos ventiladores",
-      "Periodicidade": "Anual",
-      "TrabalhosRealizadosMaterialGasto": "I - Verificar nivel oleo hidraulico;                                                                                                                                                        II - Verificar a existencia de peças desgastas;                                                                                                                                  III - Lubrificação de corretes;                                                                                                                                                 IV - Limpeza de filtro;                                                                                                                                                                        V -  Reposição nivel de agua destilada;                                                                                                                                                         VI - Substituir bico de corte;                                                                                                                                                            VII - Substituir lente de proteção;                                                                                                                                                 VIII - Reposição de nivel de oleo do sistema de lubrificação automatica;                                                                                            IX - Lubrificação de engrenagem das portas;                                                                                                                                                             X - Limpeza de Filtro de AR;                                                                                                                                                           XI - Limpeza do filtro dos ventiladores",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "439 A-MAQIND | Máquina de Laser  | Máquinas industriais",
-      "Data": "2026-07-11",
-      "Tipo": "Planeada",
-      "Descricao": "I - Reposição nivel oleo hidraulico;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                II - Limpar guias de movimentação das mesas;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        III - Substituir Agua destilada;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     IV - Verificar estado das tubagem e uniões;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 V - Limpar Filtro e depósito da Aspiração;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               VI - Verificar estado da tubagem no interior;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                VII - Verificar estado das tubagens e uniões;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       VIII - Substituir cerâmica;                                                                                                                                                                                                                                                                                                                                                                                      IX - Eliminar existência de fuga de gás, ar e agua;                                                                            X - Verificar Nivel de Oleo e correta;                                                                                         XI - Verifcar estado dos motores e fusos lubrificação automática;                                                  XII - Substituir Oleo de lubrificação automatica;                                                                            XIII - Verificar estado da proteção dos eixos da cabeça do Laser;                                                 XIV - Verifcar estado dos motores e fusos;                                                                             XV - Verificar estado das barreiras;                                                                                                  XVI - Limpar sensor da porta; Verificar existencia de alarmes",
-      "Periodicidade": "Semestral",
-      "TrabalhosRealizadosMaterialGasto": "I - Reposição nivel oleo hidraulico;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                II - Limpar guias de movimentação das mesas;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        III - Substituir Agua destilada;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     IV - Verificar estado das tubagem e uniões;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 V - Limpar Filtro e depósito da Aspiração;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               VI - Verificar estado da tubagem no interior;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                VII - Verificar estado das tubagens e uniões;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       VIII - Substituir cerâmica;                                                                                                                                                                                                                                                                                                                                                                                      IX - Eliminar existência de fuga de gás, ar e agua;                                                                            X - Verificar Nivel de Oleo e correta;                                                                                         XI - Verifcar estado dos motores e fusos lubrificação automática;                                                  XII - Substituir Oleo de lubrificação automatica;                                                                            XIII - Verificar estado da proteção dos eixos da cabeça do Laser;                                                 XIV - Verifcar estado dos motores e fusos;                                                                             XV - Verificar estado das barreiras;                                                                                                  XVI - Limpar sensor da porta; Verificar existencia de alarmes",
-      "Tecnico": "Luís Nunes",
-      "Resultado": ""
-    },
-    {
-      "CodigoEquipamento": "439 A-MAQIND | Máquina de Laser  | Máquinas industriais",
-      "Data": "2026-06-01",
-      "Tipo": "Planeada",
-      "Descricao": "I - Substituir Óleo Hidráulico;\n\tII - Substituição de filtro Óleo;\n\tIII - Verificar estado dos sensores, rolamentos e correntes\n\tIV - Substituir água destilada\t\nV - Substituir filtros;\n\tVI - Substituir filtro da aspiração;\n\tVII - Substituir filtro do circuito de aspiração;\t\nIX - Verificar estado das tubagens e uniões;\nXI - \tReapertar parafusos da cabeça do laser\t\nXII - verificar movimentos da cabeça do laser\t\nXIII - Substituir óleo de lubrificação automática\t\nXIV - Verificar estado dos rolamentos\t\nXV - Reapertar motores e acopladores\nXVI - Verificar estado das barreiras e alinhamento\t\nXVII - Limpar sensor de todas as portas\t\nXVIII - Verificar estado dos sensores e testar funcionamento",
-      "Periodicidade": "Mensal",
-      "TrabalhosRealizadosMaterialGasto": "I - Substituir Óleo Hidráulico;\n\tII - Substituição de filtro Óleo;\n\tIII - Verificar estado dos sensores, rolamentos e correntes\n\tIV - Substituir água destilada\t\nV - Substituir filtros;\n\tVI - Substituir filtro da aspiração;\n\tVII - Substituir filtro do circuito de aspiração;\t\nIX - Verificar estado das tubagens e uniões;\nXI - \tReapertar parafusos da cabeça do laser\t\nXII - verificar movimentos da cabeça do laser\t\nXIII - Substituir óleo de lubrificação automática\t\nXIV - Verificar estado dos rolamentos\t\nXV - Reapertar motores e acopladores\nXVI - Verificar estado das barreiras e alinhamento\t\nXVII - Limpar sensor de todas as portas\t\nXVIII - Verificar estado dos sensores e testar funcionamento",
       "Tecnico": "Luís Nunes",
       "Resultado": ""
     }
