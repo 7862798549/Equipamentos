@@ -10,6 +10,83 @@
       "Estado": "Estado",
       "UltimaManutencao": null,
       "ProximaManutencao": null
+    },
+    {
+      "Codigo": "614-FERRAM | Serrote Disco  | Ferramentas",
+      "Designacao": "Serrote Disco",
+      "Marca": "FLOTT",
+      "Modelo": "KS 315M",
+      "NumeroSerie": "23/00122",
+      "Localizacao": "Produção Metal",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": "2026-12-25"
+    },
+    {
+      "Codigo": "617-MAQIND | Máquina de limpeza de soldadura | Máquinas industriais",
+      "Designacao": "Máquina de limpeza de soldadura",
+      "Marca": "Weldbrush",
+      "Modelo": "WB 500",
+      "NumeroSerie": "MP500-2106",
+      "Localizacao": "Produção Metal",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": "2027-04-14"
+    },
+    {
+      "Codigo": "644-MAQIND | Máquina de Soldadura a Laser | Máquinas industriais",
+      "Designacao": "Máquina de Soldadura a Laser",
+      "Marca": "Nande",
+      "Modelo": "Class IV",
+      "NumeroSerie": "2002019029",
+      "Localizacao": "Produção Metal",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": "1900-06-30"
+    },
+    {
+      "Codigo": "679 A-MAQIND | Máquina de limpeza superficies planas | Máquinas industriais",
+      "Designacao": "Máquina de limpeza superficies planas",
+      "Marca": "NS",
+      "Modelo": "FC120-ZK_201.022",
+      "NumeroSerie": "4050",
+      "Localizacao": "Produção Metal",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": "2027-07-22"
+    },
+    {
+      "Codigo": "688 A-MAQIND | Fresadora 1 | Máquinas industriais",
+      "Designacao": "Fresadora 1",
+      "Marca": "UNICO",
+      "Modelo": "UNICO CNC - K 3D",
+      "NumeroSerie": "UNC - 22547",
+      "Localizacao": "Produção Automóvel",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": null
+    },
+    {
+      "Codigo": "836 A-MAQIND | Máquina Soldar TIG 2 | Máquinas industriais",
+      "Designacao": "Máquina Soldar TIG 2",
+      "Marca": "ESAB",
+      "Modelo": "Renegade ET 210IP",
+      "NumeroSerie": "OP34226080488",
+      "Localizacao": "Produção Metal",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": "1900-12-29"
+    },
+    {
+      "Codigo": "855 A-MAQIND | Fresadora 2 | Máquinas industriais",
+      "Designacao": "Fresadora 2",
+      "Marca": "",
+      "Modelo": "",
+      "NumeroSerie": "UNC-25654",
+      "Localizacao": "Produção Automóvel",
+      "Estado": "Ativo",
+      "UltimaManutencao": null,
+      "ProximaManutencao": null
     }
   ],
   "Manutencoes": [
